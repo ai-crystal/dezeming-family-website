@@ -13,6 +13,9 @@ export default defineNavbarConfig([
   { text: '归档', link: '/blog/archives/' },
   {
     text: '笔记',
-    items: [{ text: '示例', link: '/demo/README.md' }]
+    items: [
+      { text: '计算机系统与程序设计', link: '/dezeming/计算机系统与程序设计/计算机系统与程序设计.md' },
+      { text: '人工智能与机器学习', link: '/dezeming/人工智能与机器学习/人工智能与机器学习.md' },
+    ]
   },
 ])
