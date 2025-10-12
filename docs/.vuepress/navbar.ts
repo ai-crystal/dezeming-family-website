@@ -8,18 +8,10 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
   { text: '首页', link: '/' },
-  { text: '博客', link: '/blog/' },
-  { text: '标签', link: '/blog/tags/' },
-  { text: '归档', link: '/blog/archives/' },
-  {
-    text: '笔记',
-    items: [
-      { text: '计算机系统与程序设计', link: '/dezeming/计算机系统与程序设计/计算机系统与程序设计.md' },
-      { text: '人工智能与机器学习', link: '/dezeming/人工智能与机器学习/人工智能与机器学习.md' },
-      { text: '数据结构与算法', link: '/dezeming/数据结构与算法/数据结构与算法.md' },
-      { text: '应用数学原理', link: '/dezeming/应用数学原理/应用数学原理.md' },
-      { text: '计算机视觉', link: '/dezeming/计算机视觉/计算机视觉.md' },
-      { text: '计算机图形学', link: '/dezeming/计算机图形学/计算机图形学.md' },
-    ]
-  },
+  { text: '计算机图形学', link: '/dezeming/计算机图形学/计算机图形学.md' },
+  { text: '计算机视觉', link: '/dezeming/计算机视觉/计算机视觉.md' },
+  { text: '应用数学原理', link: '/dezeming/应用数学原理/应用数学原理.md' },
+  { text: '数据结构与算法', link: '/dezeming/数据结构与算法/数据结构与算法.md' },
+  { text: '人工智能与机器学习', link: '/dezeming/人工智能与机器学习/人工智能与机器学习.md' },
+  { text: '计算机系统与程序设计', link: '/dezeming/计算机系统与程序设计/计算机系统与程序设计.md' },
 ])
