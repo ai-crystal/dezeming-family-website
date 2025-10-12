@@ -17,7 +17,7 @@ config:
 <br>  
 <!--第一行-->  
 <CardMasonry>  
-  <a href="https://www.example.com" target="_blank">  
+  <a href="/dezeming/计算机图形学/PBRT_V3_从零到完全吃透系列" target="_blank">  
     <img src="/images/cover/PBRT3-零基础到精通系列书.jpg" alt="PBRT3-零基础到精通系列书" width="90%">
     <p>PBRT3-零基础到精通系列书</p>  
   </a>  
