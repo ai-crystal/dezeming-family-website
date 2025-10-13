@@ -68,5 +68,6 @@ export default defineNavbarConfig([
       { text: '操作系统', link: '/dezeming/计算机系统与程序设计/计算机系统与程序设计.html#操作系统' },
       { text: '嵌入式自控系统设计实例', link: '/dezeming/计算机系统与程序设计/计算机系统与程序设计.html#嵌入式自控系统设计实例' }
     ]
-  }
+  },
+  { text: '关于', link: '/dezeming/about.md' },
 ])
