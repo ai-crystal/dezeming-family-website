@@ -23,3 +23,7 @@ DezemingFamily是公益性质的知识学习和交流网站，所有电子书和
 大家可以在 “交流与讨论” 对DezemingFamily的电子书进行评论，我们会在第一时间进行答复和修订。您的意见和建议将是我们不断完善和更新的重要力量！
 
 :::
+
+::: flex center
+<img src="/images/Alipay.png" alt="alipay" width="50%">
+:::
