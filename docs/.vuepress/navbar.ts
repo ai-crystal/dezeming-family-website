@@ -25,7 +25,7 @@ export default defineNavbarConfig([
       { text: 'OpenCV源码详解', link: '/dezeming/计算机视觉/计算机视觉.html#opencv源码详解' },
       { text: '颜色空间理论', link: '/dezeming/计算机视觉/计算机视觉.html#颜色空间理论' },
       { text: '图像特征与特征匹配', link: '/dezeming/计算机视觉/计算机视觉.html#图像特征与特征匹配' },
-      { text: '图像质量评价（IQA）', link: '/dezeming/计算机视觉/计算机视觉.html#图像质量评价（iqa）' },
+      { text: '图像质量评价（IQA）', link: '/dezeming/计算机视觉/计算机视觉.html#图像质量评价' },
       { text: '图像去噪与滤波', link: '/dezeming/计算机视觉/计算机视觉.html#图像去噪与滤波' },
       { text: '图像分割（与边缘、轮廓提取）', link: '/dezeming/计算机视觉/计算机视觉.html#图像分割（与边缘、轮廓提取）' },
       { text: '图像编辑（图像融合、抠图、图像增强等）', link: '/dezeming/计算机视觉/计算机视觉.html#图像编辑（图像融合、抠图、图像增强等）' },
