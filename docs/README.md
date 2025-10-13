@@ -6,14 +6,13 @@ config:
   
   
 ::: flex center  
-  
-  
 # Dezeming Family  
-  
-  
-:::  
-  
-  
+:::
+
+::: tip News
+网站于2025年10月进行了版面优化和重构，内容已暂停更新。新的技术博客以可微渲染和生成式AI为主，系列文章参见本人的知乎专栏。
+:::
+
 <br>  
 <!--第一行-->  
 <CardMasonry>  

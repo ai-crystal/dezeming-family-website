@@ -4,10 +4,11 @@ tags:
   - about
 
 PageLayout: 'custom' 
-navbar: false
+navbar: true
 aside: false
 outline: [2,4]
 ---
+
 ::: card
 感谢大家支持！
 
